@@ -1,0 +1,1 @@
+html 안에 theme안에 djs랑 같은것
